@@ -19,16 +19,6 @@ const Navigation = () => {
               >
                 Manage Muse
               </Link>
-              {/* <Link
-                to="/"
-                style={{
-                  marginRight: "30px",
-                  textDecoration: "none",
-                  color: "white",
-                }}
-              >
-                Add Icons
-              </Link> */}
             </Nav>
           </Navbar.Collapse>
         </Container>
